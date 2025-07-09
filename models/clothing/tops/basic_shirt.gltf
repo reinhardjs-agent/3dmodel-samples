@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Low-Poly Model Generator"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Basic_Shirt",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Basic_Shirt",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "indices": 1,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 8,
+      "type": "VEC3",
+      "max": [
+        0.45,
+        1.35,
+        0.25
+      ],
+      "min": [
+        -0.45,
+        0.45,
+        -0.25
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 36,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 96,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 96,
+      "byteLength": 72,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 168,
+      "uri": "data:application/octet-stream;base64,Zmbmvs3MrD8AAIC+ZmbmPs3MrD8AAIC+ZmbmPs3MrD8AAIA+Zmbmvs3MrD8AAIA+MzOzvmZm5j7NzEy+MzOzPmZm5j7NzEy+MzOzPmZm5j7NzEw+MzOzvmZm5j7NzEw+AAABAAIAAAACAAMABAAHAAYABAAGAAUAAAAEAAUAAAAFAAEAAgAGAAcAAgAHAAMAAAADAAcAAAAHAAQAAQAFAAYAAQAGAAIA"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Basic_Shirt_material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8
+      }
+    }
+  ]
+}
