@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Low-Poly Model Generator"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Shorts",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Shorts",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "indices": 1,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "max": [
+        0.35,
+        0.5,
+        0.2
+      ],
+      "min": [
+        -0.35,
+        -0.1,
+        -0.2
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 72,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 192,
+      "byteLength": 144,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 336,
+      "uri": "data:application/octet-stream;base64,MzOzvgAAAD/NzEy+MzOzPgAAAD/NzEy+MzOzPgAAAD/NzEw+MzOzvgAAAD/NzEw+AACAvs3MTD6amRm+AACAPs3MTD6amRm+AACAPs3MTD6amRk+AACAvs3MTD6amRk+AACAvpqZGb+amRm+AACAPs3MTD6amRm+AACAPs3MTD6amRk+AACAvpqZGb+amRk+AACAPs3MTD6amZk9AACAPs3MTD6amZk9AACAPs3MTD6amZk9AACAPs3MTD6amZk9AAABAAIAAAACAAMABAAHAAYABAAGAAUAAAAEAAUAAAAFAAEAAgAGAAcAAgAHAAMAAAADAAcAAAAHAAQAAQAFAAYAAQAGAAIACAAJAAoACAAKAAsADAAPAA4ADAAOAA0ACAAMAA0ACAANAAkACgAOAA8ACgAPAAsACAALAA8ACAAPAAwACQANAA4ACQAOAAoA"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Shorts_material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.2,
+          0.7,
+          0.2,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8
+      }
+    }
+  ]
+}
