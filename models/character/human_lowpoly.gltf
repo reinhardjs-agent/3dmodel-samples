@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Low-Poly Model Generator"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Human_LowPoly",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Human_LowPoly",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "indices": 1,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 48,
+      "type": "VEC3",
+      "max": [
+        0.7,
+        1.7,
+        0.3
+      ],
+      "min": [
+        -0.7,
+        -0.5,
+        -0.3
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 216,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 576,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 576,
+      "byteLength": 432,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 1008,
+      "uri": "data:application/octet-stream;base64,mpmZvpqZ2T+amZm+mpmZPpqZ2T+amZm+mpmZPpqZ2T+amZk+mpmZvpqZ2T+amZk+mpmZvmZmpj+amZm+mpmZPmZmpj+amZm+mpmZPmZmpj+amZk+mpmZvmZmpj+amZk+zczMvmZmpj/NzEy+zczMPmZmpj/NzEy+zczMPmZmpj/NzEw+zczMvmZmpj/NzEw+mpmZvgAAAD+amRm+mpmZPgAAAD+amRm+mpmZPgAAAD+amRk+mpmZvgAAAD+amRk+MzMzv5qZmT/NzMy9zczMvpqZmT/NzMy9zczMvpqZmT/NzMw9MzMzv5qZmT/NzMw9MzMzv5qZGT/NzMy9zczMvpqZGT/NzMy9zczMvpqZGT/NzMw9MzMzv5qZGT/NzMw9zczMPpqZmT/NzMy9MzMzP5qZmT/NzMy9MzMzP5qZmT/NzMw9zczMPpqZmT/NzMw9zczMPpqZGT/NzMy9MzMzP5qZGT/NzMy9MzMzP5qZGT/NzMw9zczMPpqZGT/NzMw9zcxMvgAAAD/NzMy9AAAAAAAAAD/NzMy9AAAAAAAAAD/NzMw9zcxMvgAAAD/NzMw9zcxMvgAAAL/NzMy9AAAAAAAAAL/NzMy9AAAAAAAAAL/NzMw9zcxMvgAAAL/NzMw9AAAAAAAAAD/NzMy9zcxMPgAAAD/NzMy9zcxMPgAAAD/NzMw9AAAAAAAAAD/NzMw9AAAAAAAAAL/NzMy9zcxMPgAAAL/NzMy9zcxMPgAAAL/NzMw9AAAAAAAAAL/NzMw9AAABAAIAAAACAAMABAAHAAYABAAGAAUAAAAEAAUAAAAFAAEAAgAGAAcAAgAHAAMAAAADAAcAAAAHAAQAAQAFAAYAAQAGAAIACAAJAAoACAAKAAsADAAPAA4ADAAOAA0ACAAMAA0ACAANAAkACgAOAA8ACgAPAAsACAALAA8ACAAPAAwACQANAA4ACQAOAAoAEAARABIAEAASABMAFAAXABYAFAAWABUAEAAUABUAEAAVABEAEgAWABcAEgAXABMAEAATABcAEAAXABQAEQAVABYAEQAWABIAGAAZABoAGAAaABsAHAAfAB4AHAAeAB0AGAAcAB0AGAAdABkAGgAeAB8AGgAfABsAGAAbAB8AGAAfABwAGQAdAB4AGQAeABoAIAAhACIAIAAiACMAJAAnACYAJAAmACUAIAAkACUAIAAlACEAIgAmACcAIgAnACMAIAAjACcAIAAnACQAIQAlACYAIQAmACIAKAApACoAKAAqACsALAAvAC4ALAAuAC0AKAAsAC0AKAAtACkAKgAuAC8AKgAvACsAKAArAC8AKAAvACwAKQAtAC4AKQAuACoA"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Human_LowPoly_material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8
+      }
+    }
+  ]
+}

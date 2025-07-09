@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Low-Poly Model Generator"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Basic_Pants",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Basic_Pants",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "indices": 1,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 24,
+      "type": "VEC3",
+      "max": [
+        0.35,
+        0.5,
+        0.2
+      ],
+      "min": [
+        -0.35,
+        -0.6,
+        -0.2
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 108,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 288,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 288,
+      "byteLength": 216,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 504,
+      "uri": "data:application/octet-stream;base64,MzOzvgAAAD/NzEy+MzOzPgAAAD/NzEy+MzOzPgAAAD/NzEw+MzOzvgAAAD/NzEw+AACAvs3MTD6amRm+AACAPs3MTD6amRm+AACAPs3MTD6amRk+AACAvs3MTD6amRk+AACAvs3MTD6amRm+zcxMvc3MTD6amRm+zcxMvc3MTD6amRk+AACAvs3MTD6amRk+AACAvpqZGb+amRm+zcxMvZqZGb+amRm+zcxMvZqZGb+amRk+AACAvpqZGb+amRk+zcxMPc3MTD6amRm+AACAPs3MTD6amRm+AACAPs3MTD6amRk+zcxMPc3MTD6amRk+zcxMPZqZGb+amRm+AACAPpqZGb+amRm+AACAPpqZGb+amRk+zcxMPZqZGb+amRk+AAABAAIAAAACAAMABAAHAAYABAAGAAUAAAAEAAUAAAAFAAEAAgAGAAcAAgAHAAMAAAADAAcAAAAHAAQAAQAFAAYAAQAGAAIACAAJAAoACAAKAAsADAAPAA4ADAAOAA0ACAAMAA0ACAANAAkACgAOAA8ACgAPAAsACAALAA8ACAAPAAwACQANAA4ACQAOAAoAEAARABIAEAASABMAFAAXABYAFAAWABUAEAAUABUAEAAVABEAEgAWABcAEgAXABMAEAATABcAEAAXABQAEQAVABYAEQAWABIA"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Basic_Pants_material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8
+      }
+    }
+  ]
+}

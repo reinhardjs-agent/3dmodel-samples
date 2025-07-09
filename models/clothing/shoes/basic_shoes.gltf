@@ -1,0 +1,93 @@
+{
+  "asset": {
+    "version": "2.0",
+    "generator": "Low-Poly Model Generator"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "Basic_Shoes",
+      "mesh": 0
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Basic_Shoes",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0
+          },
+          "indices": 1,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 16,
+      "type": "VEC3",
+      "max": [
+        0.3,
+        -0.5,
+        0.3
+      ],
+      "min": [
+        -0.3,
+        -0.6,
+        -0.2
+      ]
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5123,
+      "count": 72,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteOffset": 0,
+      "byteLength": 192,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteOffset": 192,
+      "byteLength": 144,
+      "target": 34963
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 336,
+      "uri": "data:application/octet-stream;base64,mpmZvgAAAL/NzEy+zczMvQAAAL/NzEy+zczMvQAAAL+amZk+mpmZvgAAAL+amZk+mpmZvpqZGb/NzEy+zczMvZqZGb/NzEy+zczMvZqZGb+amZk+mpmZvpqZGb+amZk+zczMPQAAAL/NzEy+mpmZPgAAAL/NzEy+mpmZPgAAAL+amZk+zczMPQAAAL+amZk+zczMPZqZGb/NzEy+mpmZPpqZGb/NzEy+mpmZPpqZGb+amZk+zczMPZqZGb+amZk+AAABAAIAAAACAAMABAAHAAYABAAGAAUAAAAEAAUAAAAFAAEAAgAGAAcAAgAHAAMAAAADAAcAAAAHAAQAAQAFAAYAAQAGAAIACAAJAAoACAAKAAsADAAPAA4ADAAOAA0ACAAMAA0ACAANAAkACgAOAA8ACgAPAAsACAALAA8ACAAPAAwACQANAA4ACQAOAAoA"
+    }
+  ],
+  "materials": [
+    {
+      "name": "Basic_Shoes_material",
+      "pbrMetallicRoughness": {
+        "baseColorFactor": [
+          0.8,
+          0.8,
+          0.8,
+          1.0
+        ],
+        "metallicFactor": 0.0,
+        "roughnessFactor": 0.8
+      }
+    }
+  ]
+}
